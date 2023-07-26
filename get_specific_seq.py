@@ -29,7 +29,7 @@ if __name__ == "__main__":
     
     with open (sys.argv[4],"w") as out:
         for line in result:
-            out.write("{}{}\n{}".format(line[0],line[1],line[2]))
+            out.write("{}{}\n{}\n".format(line[0],line[1],line[2]))
 
 
         
