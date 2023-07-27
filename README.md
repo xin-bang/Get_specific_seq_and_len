@@ -8,4 +8,5 @@
 ``
 python get_specific_seq.py bait.txt test.fasta 60 result.fasta
 ``
+
 其结果就是输出长度为60bp的索引文件。
