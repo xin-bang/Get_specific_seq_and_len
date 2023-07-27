@@ -1,4 +1,6 @@
 # 需求:根据索引文件bait.txt去索引test.fasta中的序列,并按要求长度输出;
+# asd
+## asdasd
 
 
 #例如:从test.fasta索引特定的序列,并按60的长度输出出来
